@@ -4,6 +4,7 @@ Hi, I’m Grzegorz, also known as @Grochu25.
 - Currently, my biggest interest are web apps, mostly backend. (Mainly spring but I also have sone ASP.NET projects)
 - I am slowly learning some vue.js now
 - I know Git, relational databases, SQL queries, and the basics of Docker
+
 See all my public repositories: [public repositories](https://github.com/Grochu25?tab=repositories)
 
 <!---
